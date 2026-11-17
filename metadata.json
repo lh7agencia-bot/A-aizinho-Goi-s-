@@ -1,0 +1,8 @@
+{
+  "name": "Açaizinho Goiás - Distribuidor Oficial",
+  "description": "Açaí puro, energia de verdade. Distribuidor oficial Açaizinho em Aparecida de Goiânia - GO. Galeria real, agendamento online e atendimento direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
